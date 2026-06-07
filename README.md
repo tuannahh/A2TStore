@@ -24,14 +24,15 @@ A2T GAMES là client cửa hàng game cho Switch, giao diện kiểu Tinfoil, t�
 - **Cài đặt** — đổi theme, ngôn ngữ, cập nhật app, sigpatches, gói icon offline
 
 ## Hình ảnh
+<p align="center">
+  <img src="docs/home.png" alt="A2T GAMES — giao diện chính" width="720">
+</p>
 
 | Game Việt Hoá | File Việt Hoá | Cài Đặt|
 |:---:|:---:|:---:|
 | ![Trang chủ](docs/gamevh.png) | ![Cửa hàng](docs/vh.png) | ![Chi tiết](docs/setting.png) |
 
-<p align="center">
-  <img src="docs/home.png" alt="A2T GAMES — giao diện chính" width="720">
-</p>
+
 
 ## Yêu cầu
 Nintendo Switch đã custom firmware, kết nối WiFi/LAN, và thiết bị được kích hoạt trên server.
