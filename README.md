@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="appstore-switch/resources/img/logo.png" alt="A2T GAMES" width="280">
+  <img src="docs/logo.png" alt="A2T GAMES" width="280">
 </p>
 
 <h1 align="center">A2T GAMES</h1>
@@ -16,35 +16,24 @@ A2T GAMES là client cửa hàng game cho Switch, giao diện kiểu Tinfoil, t�
 
 ## Tính năng chính
 
-- **Trang chủ** — game mới, tải nhiều, vừa cập nhật, game đã cài
-- **Cửa hàng** — duyệt theo danh mục, tìm kiếm, tải thêm danh sách
+- **News Games* — game mới, vừa cập nhật
 - **Chi tiết game** — cover, screenshot, mô tả, cài đặt một chạm
-- **Việt hoá** — game VH và file patch tiếng Việt
+- **Việt hoá** — game VH và file Việt hoá
 - **Hàng chờ** — quản lý các lượt cài đang chạy
 - **Save Cloud** — sao lưu và khôi phục save game lên server
 - **Cài đặt** — đổi theme, ngôn ngữ, cập nhật app, sigpatches, gói icon offline
 
 ## Hình ảnh
 
-> Thêm ảnh chụp màn hình vào `docs/screenshots/` (đặt tên như bên dưới) để hiển thị trên GitHub.
-
-| Trang chủ | Cửa hàng | Chi tiết game |
+| Game Việt Hoá | File Việt Hoá | Cài Đặt|
 |:---:|:---:|:---:|
-| ![Trang chủ](docs/screenshots/home.png) | ![Cửa hàng](docs/screenshots/shop.png) | ![Chi tiết](docs/screenshots/detail.png) |
+| ![Trang chủ](docs/gamevh.png) | ![Cửa hàng](docs/vh.png) | ![Chi tiết](docs/setting.png) |
 
 <p align="center">
-  <img src="docs/screenshots/home-wide.png" alt="A2T GAMES — giao diện chính" width="720">
+  <img src="docs/home.png" alt="A2T GAMES — giao diện chính" width="720">
 </p>
 
-## Dự án
-
-| Thư mục | Mô tả |
-|---------|--------|
-| [`appstore-switch/`](appstore-switch/) | Client Switch (Borealis UI) |
-| [`appstore-backend/`](appstore-backend/) | Backend PHP phục vụ API & quản trị |
-
 ## Yêu cầu
-
 Nintendo Switch đã custom firmware, kết nối WiFi/LAN, và thiết bị được kích hoạt trên server.
 
 ---
