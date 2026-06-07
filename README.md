@@ -25,9 +25,9 @@ A2T GAMES là cửa hàng game cho Switch, giao diện đơn giản, có tiếng
 
 ## Hình ảnh
 
-| Trang chủ | Cửa hàng | Chi tiết game |
+| Trang chủ | Game VH | File VH |
 |:---:|:---:|:---:|
-| ![Trang chủ](docs/home.png) | ![Cửa hàng](docs/shop.png) | ![Chi tiết](docs/detail.png) |
+| ![Trang chủ](docs/home.png) | ![Cửa hàng](docs/gamevh.png) | ![Chi tiết](docs/vh.png) |
 
 
 ## Yêu cầu
