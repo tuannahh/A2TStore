@@ -25,14 +25,12 @@ A2T GAMES là client cửa hàng game cho Switch, giao diện kiểu Tinfoil, t�
 
 ## Hình ảnh
 
-> Thêm ảnh chụp màn hình vào `docs/screenshots/` (đặt tên như bên dưới) để hiển thị trên GitHub.
-
-| Homepage | Game Việt Hoá | File Việt Hoá |
+| Game Việt Hoá | File Việt Hoá | Cài Đặt|
 |:---:|:---:|:---:|
-| ![Trang chủ](docs/gamevh.png) | ![Cửa hàng](docs/gamevh.png) | ![Chi tiết](docs/vh.png) |
+| ![Trang chủ](docs/gamevh.png) | ![Cửa hàng](docs/vh.png) | ![Chi tiết](docs/setting.png) |
 
 <p align="center">
-  <img src="docs/home-wide.png" alt="A2T GAMES — giao diện chính" width="720">
+  <img src="docs/home.png" alt="A2T GAMES — giao diện chính" width="720">
 </p>
 
 ## Yêu cầu
